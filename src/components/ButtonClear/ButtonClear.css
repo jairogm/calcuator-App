@@ -1,0 +1,14 @@
+.Buttonclear-container {
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 10px;
+  border: 1px solid #c4c4c4;
+  background-color: transparent;
+  font-size: 2rem;
+  cursor: pointer;
+  color: #fff;
+  background-color: red;
+}
